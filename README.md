@@ -13,9 +13,15 @@ sociodemographic, behavioural, medical and obstetric factors, along with foetal 
 completeness in the United States.
 
 
-   # Reproducibility
+   ## Reproducibility
 Using the code provided, you can execute the entire analysis from within your Stata program. The do-files contain annotations providing explanation of the code from beginning to end for easy reproducibility of all the models, tables and figures produced in the paper.
 
-  # Requirements
+  ## Requirements
 **Install Stata or access Stata via a shared computing cluster**\
 The code was written in Stata 17
+
+   ## License
+The software code contained within this repository is made available under the standard [MIT license](http://opensource.org/licenses/mit-license.php). 
+
+   ## Problems
+To report bugs, or for questions please contact Collette Ncube at ncube@bu.edu, or submit a pull request.

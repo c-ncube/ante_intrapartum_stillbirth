@@ -1,5 +1,5 @@
 # Antepartum and intrapartum stillbirth rates across gestation: a cross-sectional study using the revised foetal death reporting system in the U.S.
-
+DOI https://doi.org/10.1186/s12884-022-05185-x
 
 This repository contains Stata code for reproducing Ncube et al. (2022), "Antepartum and intrapartum stillbirth rates across gestation: a cross-sectional study using the revised foetal death reporting system in the U.S."
 

@@ -18,7 +18,7 @@ Using the code provided, you can execute the entire analysis from within your St
 
   ## Requirements
 **Install Stata or access Stata via a shared computing cluster**\
-The code was written in Stata 17
+The code was written in Stata 16
 
    ## License
 The software code contained within this repository is made available under the standard [MIT license](http://opensource.org/licenses/mit-license.php). 

@@ -17,6 +17,9 @@ completeness in the United States.
 Using the code provided, you can execute the entire analysis from within your Stata program. The do-files contain annotations providing explanation of the code from beginning to end for easy reproducibility of all the models, tables and figures produced in the paper.
 
   ## Requirements
+**Data**\
+Download the 2014 public use fetal death data file from https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#Fetal_Death
+
 **Install Stata or access Stata via a shared computing cluster**\
 The code was written in Stata 16
 
